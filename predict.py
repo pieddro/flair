@@ -9,3 +9,4 @@ tagger.predict(sentence)
 print("Analysing sentence %s“ % sentence)
 print("\nThe following NER tags are found: \n")
 print(sentence.to_tagged_string())
+Nur ein Test
